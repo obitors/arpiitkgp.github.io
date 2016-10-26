@@ -3,12 +3,11 @@
 
         <div class="site-content">
             
-        <h4 style="float:right; border-bottom: 7px solid black;"><b>ANTRITZS</b></h4><br><br><br><br>
+        <h4 style="float:right; border-bottom: 7px solid black;"><b>ANTARITS</b></h4><br><br><br><br>
        <div id="content">
         
           <ul>
               <li class='namee'>	Abhishek Anand	</li><li class='position'>	13AR10001	</li><li class='emaill' >	abshk.mw@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Achary Sudheer	</li><li class='position'>	13AR10002	</li><li class='emaill' >	sudheeriitkgp115@gmail.com	</li><hr class='rule'>
               <li class='namee'>	Aishwarya Verma	</li><li class='position'>	13AR10003	</li><li class='emaill' >	aishwarya.verma55@gmail.com	</li><hr class='rule'>
               <li class='namee'>	Aman Ashish	</li><li class='position'>	13AR10004	</li><li class='emaill' >	amanashish10@gmail.com	</li><hr class='rule'>
               <li class='namee'>	Aman Bhushan	</li><li class='position'>	13AR10005	</li><li class='emaill' >	bhushan.valiant01@gmail.com	</li><hr class='rule'>

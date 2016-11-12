@@ -67,5 +67,5 @@ from all its readers.
 
 </p>
 
-<font size="4">Visit:  <a href="Magazine.html"><b>Sthapati</b></a></font>
+<font size="4">Visit:  <a style="color: black;" href="Magazine.html"><b>Sthapati</b></a></font>
 <br><br><br>

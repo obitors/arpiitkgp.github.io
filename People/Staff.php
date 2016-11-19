@@ -1,22 +1,4 @@
-<?php
 
-
-mysql_connect("localhost","root","");
-mysql_select_db("arch");
-
-$result2=mysql_query("SELECT * from staff")
-  or die("fuck off".mysql_error());
-
-   if(isset($_POST['delete'])){ 
-
-$name=$_POST['varname'];
-$year=$_POST['year'];
-setcookie('var',$name,time() + (86400 * 7),"/");
-setcookie('year',$year,time() + (86400 * 7),"/");
-echo "<script> window.location='profiles.php' </script>";};
-
-  
-?>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 
         <div class="site-content">

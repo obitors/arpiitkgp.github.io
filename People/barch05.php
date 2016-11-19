@@ -3,7 +3,7 @@
 
         <div class="site-content">
             
-        <h4 style="float:right; border-bottom: 3px solid black;"><b>VIZWAKRITS</b></h4><br><br><br><br>
+        <h4 style="float:right; border-bottom: 3px solid black;"><b>VIZVAKRITS</b></h4><br><br><br><br>
         <div id="content">
        
           <ul>
@@ -14,7 +14,7 @@
 <li class='namee'>  Amit Anand  </li><li class='position'>  12AR10004 </li><li class='emaill' > amitanand302@gmail.com  </li><hr class='rule'>
 <li class='namee'>  Ankit Kapoor  </li><li class='position'>  12AR10005 </li><li class='emaill' > 0ankitkapoor@gmail.com  </li><hr class='rule'>
 <li class='namee'>  Ankita Diwan  </li><li class='position'>  12AR10006 </li><li class='emaill' > diwan.ankita9@gmail.com </li><hr class='rule'>
-<li class='namee'>  Asrish Choudhary  </li><li class='position'>  12AR10007 </li><li class='emaill' > ashris.iitkgp@gmail.com </li><hr class='rule'>
+<li class='namee'>  Ashris Choudhury  </li><li class='position'>  12AR10007 </li><li class='emaill' > ashris.iitkgp@gmail.com </li><hr class='rule'>
 <li class='namee'>  B Ruthwik </li><li class='position'>  12AR10011 </li><li class='emaill' > none  </li><hr class='rule'>
 <li class='namee'>  Bishnu Kumar Sharma </li><li class='position'>  12AR10013 </li><li class='emaill' > bishnukrsharma@gmail.com  </li><hr class='rule'>
 <li class='namee'>  Dasari Divyanvitha  </li><li class='position'>  12AR10014 </li><li class='emaill' > divyanvitha.moksha@gmail.com  </li><hr class='rule'>

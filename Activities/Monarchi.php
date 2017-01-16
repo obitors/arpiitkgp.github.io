@@ -1,6 +1,6 @@
 <h5><b>Monarchi</b></h5><hr><br>
 
-<font size="4"><b>THE INFORMAL WEEKLY NEWSLETTER OF DEPARTMENT OF ARCHITECTURE AND REGIONAL PLANNING, IIT KHARAGPUR</b></font>
+<font size="4"><b>The Informal Weekly Newsletter Of Department Of Architecture And Regional Planning, IIT Kharagpur</b></font>
 
 <p>Monarchi is the informal weekly newsletter of the Department of architecture,IIT-Kharagpur ,that is issued every Monday on behalf of the Students' Society of Architects and Planners.It includes all the information about everything that is going on  in various studios of the Department.It features all the achievements of the students and is also a medium to convey to the students about various activities of the Department.<br>
 </p><br>
@@ -11,7 +11,7 @@
   <div class="row">
     <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal1"><img class="fancybox" src="images/Monarchi/25_july.jpg" style="height:200px" ></a>
 </div>
-    <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal2"><img class="fancybox" src="images/Monarchi/25_july.jpg" style="height:200px" ></a>
+    <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal2"><img class="fancybox" src="images/Monarchi/29_feb.jpg" style="height:200px" ></a>
 </div>
     <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal3"><img class="fancybox" src="images/Monarchi/22_feb.jpg" style="height:120px" ></a><br><br><br><br><br>
 </div>

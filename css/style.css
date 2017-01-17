@@ -1,5 +1,5 @@
-    #footer{background-color: white; border-top: 1px solid #d0d0d0; border-bottom: 1px solid #d0d0d0;}
-    #img_kgp{cursor: pointer;padding-right: 5px; border-right: 1px black solid; height: 90px;}
+    #footer{background-color: white;}
+    #img_kgp{cursor: pointer;padding-right: 5px; border-right: 0.5px solid #D5DBDB; height: 90px;}
     #img_kgp:hover{opacity: 0.8;}
     #menu_icon{height: 40px; width: 30px; padding-top: 10px;}
     #mar{margin-bottom: 0px;}
@@ -173,24 +173,6 @@ figure img {
 
 #menu_icon{height: 70px;width: 80px;}
 
-
-
-
-
-
-.waves-effect {
-  position: relative;
-  cursor: pointer;
-  display: inline-block;
-  overflow: hidden;
-  vertical-align: middle;
-  z-index: 1;
-}
-
-.waves-effect:hover{
-  background-color: white;
-  font-weight: bold;
-}
 
 
 .im{height: 200px;width: 340px;}
@@ -501,3 +483,61 @@ box-shadow: 2px 1px 16px 2px rgba(122,118,122,0.91);
 ::-webkit-scrollbar-corner {
       background-color: black;
 } 
+
+
+
+
+/*footer*/
+
+
+
+        #nav-mobile{
+            margin-top: 25px;
+        }
+
+        #footer{
+            background-color: #111111;
+        }
+
+#foot-link{
+color:#D5DBDB;
+
+}
+#foot-link:hover{
+
+    border-bottom: 0.5px solid #7F8C8D;
+
+}
+
+        .foot {
+    width: 85%;
+}
+@media only screen and (min-width: 993px)
+.foot {
+    width: 70%;
+}
+@media only screen and (min-width: 601px)
+.foot {
+    width: 85%;
+}
+.foot {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}
+@media only screen and (min-width: 993px)
+.foot {
+    width: 70%;
+}
+@media only screen and (min-width: 601px)
+.foot {
+    width: 85%;
+}
+.foot {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 80%;
+}
+
+
+

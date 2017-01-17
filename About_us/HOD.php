@@ -1,6 +1,6 @@
 <h5><b>From HOD's Desk</b></h6>
   <hr><br>
-  <img style="height:150px; width:140px;float:left; padding-right:12px; margin-right:6px; border-right: 3px solid #566573;" src="images/HOD.png">
+  <img style="height:150px; width:140px;float:left; padding-right:12px; margin-right:6px; border-right: 3px solid #566573;" src="images/HOD.jpg">
   <div class="HOD">
   <font size="2">Head of the Department:<br><b>Prof. Subrata Chattopadhyay</b><br><b>Office</b> : +91-3222-282245<br><b>Email </b>: schat @ arp.iitkgp.ernet.in</font><br><br><br>
 </div>

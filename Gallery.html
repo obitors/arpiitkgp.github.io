@@ -459,8 +459,8 @@
             <div class="col m12 l3 s12">
                 <div class="collection">
                     <div class="row">
-
-                        <a href="#!" class="collection-item" id="acad1">Competition</a></div>
+                        <a href="#!" class="collection-item" id="acad4">Alumni Meet(2017)</a></div>
+                        <div class="row"><a href="#!" class="collection-item" id="acad1">Competition</a></div>
                     <div class="row"> <a href="#!" id="acad2" class="collection-item">Workshop</a></div>
                     <div class="row"><a href="#!" id="acad3" class="collection-item">Field Study</a></div>
                 </div>
@@ -602,6 +602,11 @@
                 "border-bottom": "",
                 "font-weight": ""
             });
+            $("#acad4").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+
 
         });
         $("#acad2").click(function() {
@@ -619,6 +624,11 @@
                 "border-bottom": "",
                 "font-weight": ""
             });
+            $("#acad4").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+
 
         });
         $("#acad3").click(function() {
@@ -636,8 +646,35 @@
                 "border-bottom": "",
                 "font-weight": ""
             });
+            $("#acad4").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+
 
         });
+        $("#acad4").click(function() {
+            $("#main").load("Gallery/alumni.php");
+            $("#acad4").css({
+                "border-bottom": "3px solid #566573",
+                "font-weight": "bold",
+                "color": "#2C3E50"
+            });
+            $("#acad1").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+            $("#acad2").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+            $("#acad3").css({
+                "border-bottom": "",
+                "font-weight": ""
+            });
+
+        });
+
     </script>
 </body>
 

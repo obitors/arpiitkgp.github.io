@@ -19,6 +19,10 @@
     <li>
       <img src="Gallery/field_study/4.jpg" class="iimm"/>
     </li>
+    <li>
+      <img src="Gallery/field_study/5.jpg" class="iimm"/>
+    </li>
+
   </ul>
 </div>
 <script type="text/javascript">

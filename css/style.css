@@ -21,7 +21,7 @@ nav{position: fixed;}
 .current{background-color: none; border-bottom:4px solid #283747;}
 
         #arppic {
-            margin-left: -50px;
+            margin-left: -100px;
             margin-top: 20px;
             width: 180px;
         }

@@ -70,12 +70,12 @@
         
         #pic {
             margin-left: -50px;
-            margin-top: 25px;
-            width: 130px;
+            margin-top: 20px;
+            width: 180px;
         }
         
         nav {
-            background-color: rgba(0, 0, 0, 0.2);
+            background-color: rgba(255, 255, 255, 0.25);
             height:95px;
         }
         
@@ -181,8 +181,6 @@
             <div class="row"></div>
 
         </div>
-            <hr id="hr2" style=" width:90%; border: 1.5px solid #0a0a0a;">
-
 
 
         <div class="container foot">
@@ -194,14 +192,14 @@
 
                     <div class="col l3 m2 s2" style="float:left;"><a href="http://iitkgp.ac.in/" target="_blank"><img id="img_kgp" src="images/Logo.png"></a></div>
                     <div class="col l7 m7 s7" style="margin-left:95px;">
-                        <h6 id="iitkgp" style="font-family: Gill sans MT; color:#D5DBDB;">Department of Architecture and<br>Regional Planning<br><br>Indian Institute of Technology<br>Kharagpur</h6>
+                        <h6 id="iitkgp" style="font-family: Gill sans MT; color:#D5DBDB; padding-top:6px;">Department of Architecture and<br>Regional Planning</h6><div style="font-size:13px; font-family: Raleway Light; color:#D5DBDB; line-height:15px; padding-top:5px;">Indian Institute of Technology<br>Kharagpur</font>
                     </div>
 
                 </div>
                 <div class="social col l3 s7 m7 right" style="margin-right:15px;">
-                    <a href="https://www.facebook.com/arpiitkgp" target="_blank"><img class="sociallogo" src="images/fb.png" /></a>
-                    <a href="https://issuu.com/ssapiitkgp" target="_blank"><img class="sociallogo" src="images/issuu.png" /></a>
-                    <a href="" target="_blank"><img class="sociallogo" src="images/google.png" /></a>
+                    <a href="https://www.facebook.com/arpiitkgp" target="_blank"><img class="sociallogo" id="follow"  src="images/fb.png" /></a>
+                    <a href="https://issuu.com/ssapiitkgp" target="_blank"><img class="sociallogo" id="follow" src="images/issuu.png" /></a>
+                    <a href="" target="_blank"><img class="sociallogo" id="follow" src="images/google.png" /></a>
                 </div>
             <br>
             <br>
@@ -215,8 +213,6 @@
             </div>
         </div>
     </footer>
-
-    
 
     <script type="text/javascript">
         $(".button-collapse").sideNav();
@@ -280,7 +276,7 @@
                 var x = document.getElementsByClassName("materialboxed col s12");
                 $(x).attr('id', 'main-img');
                 $('#pic').css({
-                    "width": "125px"
+                    "width": "180px"
                 });
                 $('nav').css({
                     "background-color": "white",
@@ -292,17 +288,17 @@
                 });
             } else {
                 $('#pic').css({
-                    "width": "125px"
+                    "width": "180px"
                 });
 
                 $('nav').removeClass('fixed-nav');
                 $('img#main-img').removeAttr('id');
                 $('nav').css({
-                    "background-color": "rgba(0,0,0,0.2)",
+                    "background-color": "rgba(255, 255, 255, 0.25)",
                     "height": "95px"
                 });
                 $('#nav').css({
-                    "background-color": "rgba(0,0,0,0)",
+                    "background-color": "rgba(255, 255, 255, 0.25)",
                     "height": "95px"
                 });
             }

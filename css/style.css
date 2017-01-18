@@ -1,4 +1,4 @@
-    #img_kgp{cursor: pointer;padding-right: 5px; border-right: 0.5px solid #D5DBDB; height: 90px;}
+    #img_kgp{cursor: pointer;padding: 7px; border-right: 0.2px solid #D5DBDB; height: 90px;}
     #img_kgp:hover{opacity: 0.8;}
     #menu_icon{height: 40px; width: 30px; padding-top: 10px;}
     #mar{margin-bottom: 0px;}
@@ -7,6 +7,9 @@
     #ug{font-size: 14px; border-bottom: none; padding: 0px; margin: 0px;}
     #ug:hover{font-weight: bold;}
     #barch:hover{font-weight: bold; border-bottom: none;}
+    #follow:hover{
+      opacity: 0.8;
+    }
 
 
     .collection a.collection-item{color: black;text-align: center;}
@@ -21,8 +24,8 @@ nav{position: fixed;}
 
         #arppic {
             margin-left: -50px;
-            margin-top: 30px;
-            width: 130px;
+            margin-top: 20px;
+            width: 180px;
         }
 
 
